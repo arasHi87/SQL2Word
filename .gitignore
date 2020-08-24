@@ -1,4 +1,5 @@
 *.pem
 *.log
 *.docx
+*.swp
 __pycache__
